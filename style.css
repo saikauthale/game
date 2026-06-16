@@ -1,0 +1,20 @@
+body{
+    background:#1e293b;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+}
+
+.game{
+    margin-top:100px;
+}
+
+input{
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+    background:green;
+    color:white;
+}
