@@ -3,12 +3,6 @@ pipeline {
 
     stages {
 
-        stage('Clone') {
-            steps {
-                echo 'Game Project'
-            }
-        }
-
         stage('Deploy') {
             steps {
                 sh '''
